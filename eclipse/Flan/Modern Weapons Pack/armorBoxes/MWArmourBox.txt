@@ -13,6 +13,11 @@ marineHelmet cloth.8 5
 marineBody cloth.8 8
 marinePants cloth.8 7
 marineBoots cloth.4 4
+AddArmour gign French GIGN
+marineHelmet cloth.11 5
+marineBody cloth.11 8
+marinePants cloth.11 7
+marineBoots cloth.11 4
 AddArmour spetsnaz Spetsnaz
 spetsnazHelmet cloth.13 5
 spetsnazBody cloth.7 8
